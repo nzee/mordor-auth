@@ -2,4 +2,12 @@ MORDOR-AUTH
 
 Social Auth app for the deadly land of Mordor, the dwelling place of Saruman where the Eye always watches you.
 
+If you are getting fbconnect error:
+1. Goto allauth github repo.
+2. Copy this and place it into your local allauth project file
+   allauth/facebook/templates/facebook -> cp fbconnect.html and place it in your local allauth.
+3. It should work fine!
+
+Thanks for checking. Peace :)
+
 
