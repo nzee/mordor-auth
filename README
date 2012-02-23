@@ -1,6 +1,6 @@
 MORDOR-AUTH
 
-Social Auth app for the deadly land of Mordor, the dwelling place of Saruman where the Eye always watches you.
+Django Social Auth app for easy implementation of social signups into your django project.
 
 If you are getting fbconnect error:
 1. Goto allauth github repo.
